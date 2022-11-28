@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "https://github.com/jean-kunz/my_micrograd.git"
+  site-url: "https://jean-kunz.github.io/my_micrograd"
+  description: "my micrograd (from A. Karpathy) implementation"
+  repo-branch: main
+  repo-url: "https://github.com/jean-kunz/my_micrograd.git"

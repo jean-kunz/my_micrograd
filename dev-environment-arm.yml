@@ -1,0 +1,18 @@
+name: micrograd
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cython
+  - pip
+  - pip:
+    - ipykernel
+    - mypy
+    - flake8
+    - numpy
+    - matplotlib
+    - torch
+    - nbdev
+    - graphviz
+    
