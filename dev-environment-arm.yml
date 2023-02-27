@@ -16,4 +16,5 @@ dependencies:
     - nbdev
     - graphviz
     - torchviz
+    - scikit-learn
     
